@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using WeText.Common.Querying;
 
+/// <summary>
+/// TEST GIT
+/// </summary>
 namespace WeText.Services.Accounts
 {
     [ToTable("accounts")]

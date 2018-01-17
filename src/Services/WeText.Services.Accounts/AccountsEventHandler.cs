@@ -10,6 +10,9 @@ using WeText.Domain.Events;
 
 namespace WeText.Services.Accounts
 {
+    /// <summary>
+    /// TEST GIT
+    /// </summary>
     internal sealed class AccountsEventHandler :
         IDomainEventHandler<UserCreatedEvent>,
         IDomainEventHandler<UserDisplayNameChangedEvent>,
